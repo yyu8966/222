@@ -1,8 +1,0 @@
-git clone https://github.com/ProgrammingClassrooms/Software-Eng.git
-git config --global user.name "John Doe"
-git config --global user.email johndoe@example.com
-git init
-git add -A
-git commit -m "first commit"
-git remote add myorigin <repository link> (provide your own repository link)
-git push -u myorigin master
